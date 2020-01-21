@@ -24,9 +24,9 @@ import SurroundingsSection = require("./sections/SurroundingsSection");
 import Collection = require("esri/core/Collection");
 import {Timetable, DayTimetable} from "./widgets/Timetable/Timetable";
 
-export const portalUrl = "https://zurich.maps.arcgis.com";
+export const portalUrl = "https://esriturkiye.maps.arcgis.com";
 
-export const websceneId = "543648a92446497db8a92c06ce1ad0b1";
+export const websceneId = "5c1d2059cc2f444ba0f43993d07d66b2";
 
 export const sections = [
    // Check the different files
